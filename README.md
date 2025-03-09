@@ -3,7 +3,7 @@
 
 - The framework leverages the predictive power of EDL to efficiently explore the vast peptide sequence space, while incorporating uncertainty quantification to prioritize promising candidates.
 
-- Molecular dynamics simulations validate the efficacy of the designed peptides, demonstrating their superior binding affinity compared to existing solutions, thus opening a new avenue for bio-inspired microplastic remediation strategies.
+- Molecular dynamics simulations validate the efficacy of the designed peptides, demonstrating their superior binding affinity compared to existing solutions, thus opening a new avenue for bio-inspired microplastic remediation strategies. Please refer to this repository for MD data: https://github.com/CarolHall-NCSU-CBE/PepBD_Plastics
 
 ## Citation
 ```
